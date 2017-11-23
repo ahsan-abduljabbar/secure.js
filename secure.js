@@ -1,1 +1,1 @@
-alert(" I am secure.js");
+console.log(" I am secure.js");
